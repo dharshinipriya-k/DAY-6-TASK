@@ -1,0 +1,1 @@
+This repository contains Day 6 Task {Classes, objects and methods}
